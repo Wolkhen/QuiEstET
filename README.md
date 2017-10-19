@@ -15,12 +15,15 @@ Le club d'astronomie "Brière Étoilée" a fait le 13 octobre 2017 une [interven
 > Cette soirée leur sera donc consacrée. Les différents éléments pour se constituer un début de réponse vous seront présentés. Par exemple quelle type de forme de vie la recherche cible t-elle actuellement ? Quelles sont les moyens techniques dont elle dispose ? A part sur Terre, dans le système solaire, nous n'avons toujours pas trouvé à ce jour de forme de vie intelligente. Mais qu'en est-il sur les exoplanètes déjà répertoriées ? Peut-on tout de même imaginer de la vie dans notre système solaire, par exemple sur Europe ou Encelade ?...que de questions... mais nous sommes là ! 
 
 #### Le biomimétisme
-Le Biome, fablab de biomimétisme rennais, questionne le fonctionnement du vivant et des sociétés. Il a été contacté par David Bartholoméo
+Le Biome, fablab de biomimétisme rennais, questionne le fonctionnement du vivant et des sociétés. 
+
+Pistes : établir une "démarche scientifique" mais détournée, et humoristique sur la manière de la mettre en pratique.
+
 #### L'anthropocène
 Projet ["monde à venir"](https://drive.google.com/file/d/0B90DvYGLJ3fiMGNKS01fcGdGOVU/view?usp=sharing)
 
 #### Et les autres ?
-La Sophiste : installation scénarisée
+La Sophiste, Monome : installation scénarisée et interactive, les personnes qui rentrent sont investies d'un rôle, et ne sont donc pas passives (exemple : ce sont des scientifiques?)
 Des écrivains et auteurs, spécialistes des questions d'anticipation et de construction de société extraterrestres
 
 ### La forme
